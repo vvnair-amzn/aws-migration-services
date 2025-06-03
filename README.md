@@ -2,7 +2,8 @@
 A comprehensive toolkit for AWS migration, featuring automation scripts, detailed documentation, and best practices for seamless cloud transitions.
 
 # AWS Migration Services and Supported Migration Types
-
+## Disposition Tree
+![Image](https://dk-knowledgebase.pages.aws.dev/dk-applicationportfolioassessment/attachments/7Rs-DecisionTree-baseModel.drawio.png)
 ## Migration Strategies (7 Rs)
 
 1. **Rehost (Lift & Shift)**
