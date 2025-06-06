@@ -21,7 +21,7 @@ This Python-based proxy server accepts internal traffic and routes it to the int
 
 1. Clone or download the proxy server script:
 bash
-curl -o https_proxy_server.py https://raw.githubusercontent.com/yourusername/proxy-server/main/https_proxy_server.py
+curl -o https_proxy_server.py [https://raw.githubusercontent.com/yourusername/proxy-server/main/https_proxy_server.py](https://github.com/vvnair-amzn/aws-migration-services/blob/main/Scripts/https_proxy_server.py)
 
 2. Make the script executable:
 bash
